@@ -90,3 +90,4 @@ while i < len(numbers):
     i += 1
 
 print(squares)
+ez B) - Maciej Brzezinski
